@@ -28,22 +28,22 @@ pip install matplotlib
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pydigit.
 
 ```bash
-pip install digitreg
+pip install DigitRecognizer
 ```
 
 ## Index and Usage
 
 This python project includes three of python files:
 ***
-pydigit.success():
+DigitRecognizer.success():
 Includes main.py that shows the algorithm stats.
 That stats are : How successfull and How many loss points algorithm have ?
 ***
-pydigit.random(): 
+DigitRecognizer.random(): 
 Includes python file that is a handwriting digit predicter. 
 That predicter picks random handwiritng digits from MINST algorithm and predicts both.
 ***
-pydigit.recognize():
+DigitRecognizer.recognize():
 Includes python file that is a handwriting digit predicter. 
 First of all you have to add a 28x28 image to your dir which python file you are working in that.
 After that, give the image name as a parameter to the recognize() function. 
