@@ -25,7 +25,7 @@ pip install matplotlib
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install digitreg.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install pydigit.
 
 ```bash
 pip install digitreg
